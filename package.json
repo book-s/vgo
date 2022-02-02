@@ -1,0 +1,16 @@
+{
+  "name": "vgo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "golang-vue-ts-axios-gin",
+  "author": "vgo",
+  "devDependencies": {
+    "vitepress": "^0.21.6"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  }
+}
