@@ -1,1 +1,0 @@
-const e={key:"v-7e75faa4",path:"/group/language/gofiber/gofiber.html",title:"Gofiber",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"group/language/gofiber/gofiber.md"};export{e as data};

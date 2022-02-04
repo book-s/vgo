@@ -45,9 +45,10 @@ module.exports = {
             ],
             '/group/language/gin': [
                 {
-                    text: 'Gin',
+                    text: 'Gin笔记',
                     children: [
                         '/group/language/gin/gin.md',
+                        '/group/language/gin/gin1.md',
                     ],
                 },
             ],

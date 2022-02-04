@@ -1,1 +1,0 @@
-const t={key:"v-82f3e2c4",path:"/group/language/gin/gin.html",title:"Gin",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"group/language/gin/gin.md"};export{t as data};
