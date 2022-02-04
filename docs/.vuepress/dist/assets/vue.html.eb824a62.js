@@ -1,0 +1,1 @@
+const e={key:"v-0ac7f1c5",path:"/group/vue/vue.html",title:"Vue",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"group/vue/vue.md"};export{e as data};
