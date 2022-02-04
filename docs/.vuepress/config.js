@@ -3,12 +3,14 @@ module.exports = {
     lang: 'zh-CN',
     title: 'VgoPress',
     description: '前端后端学习博客',
-    base:"/vgo/",
+    base:"/vgo/", //这里的路径必须是你创建项目的绝对路径
   
     // 主题和它的配置
     theme: '@vuepress/theme-default',
     themeConfig: {
         logo: 'https://vuejs.org/images/logo.png',
+
+        // 导航栏
         navbar: [
             {
                 text: '前端',
@@ -26,6 +28,7 @@ module.exports = {
             },
         ],
 
+        //侧边栏
         sidebar: {
             '/group/vue/': [
                 {
