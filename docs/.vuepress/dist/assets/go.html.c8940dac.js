@@ -1,0 +1,1 @@
+const t={key:"v-98993d10",path:"/group/language/go/go.html",title:"Go",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"group/language/go/go.md"};export{t as data};

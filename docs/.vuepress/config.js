@@ -14,16 +14,49 @@ module.exports = {
                 text: '前端',
                 children: [
                     {text: 'Vue',link: '/group/vue/vue'},
-                    {text: 'Axios',link: '/group/axios/axios'},
+                ],
+            },
+            {
+                text: '后端',
+                children: [
+                    {text: 'Go',link: '/group/language/go/go'},
+                    {text: 'Gin',link: '/group/language/gin/gin'},
+                    {text: 'Gofiber',link: '/group/language/gofiber/gofiber'},
                 ],
             },
         ],
 
         sidebar: {
-            '/group/': [
+            '/group/vue/': [
                 {
                     text: 'Vue',
-                    children: ['/group/vue/vue.md', '/group/axios/axios.md'],
+                    children: [
+                        '/group/vue/vue.md',
+                    ],
+                },
+            ],
+            '/group/language/go': [
+                {
+                    text: 'Go',
+                    children: [
+                        '/group/language/go/go.md',
+                    ],
+                },
+            ],
+            '/group/language/gin': [
+                {
+                    text: 'Gin',
+                    children: [
+                        '/group/language/gin/gin.md',
+                    ],
+                },
+            ],
+            '/group/language/gofiber': [
+                {
+                    text: 'Gofiber',
+                    children: [
+                        '/group/language/gofiber/gofiber.md',
+                    ],
                 },
             ],
         },

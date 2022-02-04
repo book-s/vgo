@@ -1,1 +1,0 @@
-const t={key:"v-13036db6",path:"/group/axios/axios.html",title:"Axios",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"group/axios/axios.md"};export{t as data};
