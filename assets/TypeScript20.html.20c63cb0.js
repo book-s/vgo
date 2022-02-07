@@ -1,0 +1,1 @@
+const t={key:"v-0dd30c75",path:"/group/TypeScript/TypeScript20.html",title:"21. Rollup\u6784\u5EFATS\u9879\u76EE & webpack\u6784\u5EFATS\u9879\u76EE",lang:"zh-CN",frontmatter:{lang:"zh-CN",description:"\u9875\u9762\u7684\u63CF\u8FF0"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"group/TypeScript/TypeScript20.md"};export{t as data};

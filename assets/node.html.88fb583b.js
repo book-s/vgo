@@ -1,0 +1,1 @@
+const t={key:"v-753eab0a",path:"/group/soft/node.html",title:"Node\u5B89\u88C5",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"group/soft/node.md"};export{t as data};

@@ -1,0 +1,1 @@
+import{o as e,c as t,a as s,b as a}from"./app.1433cac3.js";import{_ as c}from"./plugin-vue_export-helper.21dcd24c.js";const o={},r={id:"sqlite",tabindex:"-1"},_=s("a",{class:"header-anchor",href:"#sqlite","aria-hidden":"true"},"#",-1),i=a(" SQLite"),n=[_,i];function d(h,l){return e(),t("h1",r,n)}var m=c(o,[["render",d]]);export{m as default};

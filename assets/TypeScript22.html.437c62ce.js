@@ -1,0 +1,1 @@
+const t={key:"v-113cbdb3",path:"/group/TypeScript/TypeScript22.html",title:"23. TS\u8FDB\u9636\u7528\u6CD5proxy & Refect",lang:"zh-CN",frontmatter:{lang:"zh-CN",description:"\u9875\u9762\u7684\u63CF\u8FF0"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"group/TypeScript/TypeScript22.md"};export{t as data};

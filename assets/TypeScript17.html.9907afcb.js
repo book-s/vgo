@@ -1,0 +1,1 @@
+const t={key:"v-364284e6",path:"/group/TypeScript/TypeScript17.html",title:"18. \u58F0\u660E\u6587\u4EF6d.ts",lang:"zh-CN",frontmatter:{lang:"zh-CN",description:"\u9875\u9762\u7684\u63CF\u8FF0"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"group/TypeScript/TypeScript17.md"};export{t as data};

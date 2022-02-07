@@ -1,0 +1,1 @@
+const t={key:"v-12f19652",path:"/group/TypeScript/TypeScript23.html",title:"24. TS\u8FDB\u9636\u7528\u6CD5 Partial & Pick",lang:"zh-CN",frontmatter:{lang:"zh-CN",description:"\u9875\u9762\u7684\u63CF\u8FF0"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"group/TypeScript/TypeScript23.md"};export{t as data};

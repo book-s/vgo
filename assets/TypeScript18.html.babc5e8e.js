@@ -1,0 +1,1 @@
+const t={key:"v-32d8d3a8",path:"/group/TypeScript/TypeScript18.html",title:"19. Mixins\u6DF7\u5165",lang:"zh-CN",frontmatter:{lang:"zh-CN",description:"\u9875\u9762\u7684\u63CF\u8FF0"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"group/TypeScript/TypeScript18.md"};export{t as data};

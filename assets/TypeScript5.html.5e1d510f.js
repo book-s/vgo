@@ -1,0 +1,1 @@
+const t={key:"v-5823b36a",path:"/group/TypeScript/TypeScript5.html",title:"6. \u7C7B\u578B\u5224\u65AD | \u8054\u5408\u7C7B\u578B | \u4EA4\u53C9\u7C7B\u578B",lang:"zh-CN",frontmatter:{lang:"zh-CN",description:"\u9875\u9762\u7684\u63CF\u8FF0"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"group/TypeScript/TypeScript5.md"};export{t as data};

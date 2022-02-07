@@ -1,0 +1,1 @@
+const t={key:"v-407f98a0",path:"/group/TypeScript/TypeScript14.html",title:"15. tsconfig.json\u914D\u7F6E\u6587\u4EF6",lang:"zh-CN",frontmatter:{lang:"zh-CN",description:"\u9875\u9762\u7684\u63CF\u8FF0"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"group/TypeScript/TypeScript14.md"};export{t as data};
